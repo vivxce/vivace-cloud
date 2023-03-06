@@ -28,7 +28,7 @@ const Resume = () => {
         },
         {
           id: 2,
-          year: "2017-2018",
+          year: "2017 - 2018",
           institute: "PixelForce",
           degree: "Intern Engineer",
         }
