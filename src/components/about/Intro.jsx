@@ -8,7 +8,7 @@ const Intro = () => {
     text: (
       <>
         <p>
-          I'm Kevin Zhao, and I've been working with React for 4 years. I've been working with ANZ during this time creating applications to assist bankers with servicing customers.
+          I'm Kevin Zhao, and I've been working in the frontend space with React for 4 years. I've been at ANZ during this time creating applications to assist bankers with servicing customers.
         </p>
         <p>
           I love working on pre-existing applications, maintaining and upgrading them. I'm an avid debugger, defect-fixer and aesthetic pleaser.
